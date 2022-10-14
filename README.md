@@ -12,10 +12,12 @@ The end goal of this project is to have a functional flashcard app that logs inc
 - Implement a robust testing suite using TDD
 
 ### Wins
+- I got the game to work!
 - I now feel comfortable writing tests
 - I went from no practice with arrow functions to a good level of understanding
 - I implemented my first iterator method in code
 - I really pushed my boundaries working with so many co-dependent classes
 
 ### Challenges
-- I was unable to get my collection of classes to form a functioning game by the project deadline
+- It was very difficult to to get the Round and Game classes to work
+- I really pushed my boundaries working with so many co-dependent classes
